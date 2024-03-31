@@ -1,1 +1,1 @@
-This is Chapter two. We are doing more git stuff.
+This is Chapter two. We are doing more git stuff. I didn't write a comment so I am doing it again.
